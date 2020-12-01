@@ -1,2 +1,2 @@
 # Dsa_Algo_C
-Algorithm in C
+Data structures and Algorithm in C/C++
